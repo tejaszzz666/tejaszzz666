@@ -1,52 +1,74 @@
-# Hi, I'm Tejas 👋
+<div align="center">
 
-I'm an Artificial Intelligence & Data Science student. I build practical AI tools, LLM apps, and machine learning projects that actually solve specific problems.
+# `> tejas_sonawane --type "AI & Data Science Engineer"`
 
-[LinkedIn](https://www.linkedin.com/in/tejas-sonawane-ab347023a) • [Email Me](mailto:tejassonawane756@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-sonawane-ab347023a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejassonawane756@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejaszzz666)
 
----
-
-### 🛠️ What I'm Building
-
-#### 🔍 [RAG Question Answering System](https://github.com/tejazzz666/rag-qa-system)
-* Built a document Q&A tool using RAG, LangChain, and ChromaDB to search unstructured PDFs.
-* Worked on chunking strategies and vector indexing to get cleaner context retrieval and faster responses.
-* **Tech:** Python, LangChain, ChromaDB, OpenAI API, Streamlit
-
-#### 🛡️ [Malware Detector](https://github.com/tejazzz666/malware-detector)
-* Machine learning classifier that scans executable files (PE headers) to identify malware.
-* Trained and compared decision tree and ensemble models on static file features.
-* **Tech:** Python, Scikit-Learn, Pandas, Streamlit
-
-#### 👁️ [Human Behaviour & Anomaly Detection](https://github.com/tejazzz666/behaviour-anomaly-detection)
-* Computer vision project that processes video streams in real-time to flag unusual human activity.
-* Focused on object tracking and optimizing frame processing to keep inference fast.
-* **Tech:** Python, OpenCV, PyTorch, Flask
-
-#### 💡 [AI Expense Tracker](https://github.com/tejazzz666/ai-expense-tracker)
-* Simple web app that takes plain text transaction notes and automatically categorizes them using LLMs.
-* Connected Firebase for user auth and real-time database storage.
-* **Tech:** Python, Streamlit, Firebase, LLM APIs
+`AI & DS Undergrad` • `Generative AI` • `Model Context Protocol (MCP)` • `RAG Pipelines`
 
 ---
 
-### 💻 Tech I Use Often
+</div>
 
-* **Languages:** Python, C++, SQL, JavaScript
-* **AI / ML:** PyTorch, Scikit-Learn, LangChain, OpenCV, Pandas
-* **Web & Backend:** FastAPI, Streamlit, Firebase, Git
+### 🤖 `// SYSTEM_STACK`
+
+* **Languages:** `Python` • `C++` • `SQL` • `JavaScript` • `TypeScript`
+* **AI / ML:** `PyTorch` • `LangChain` • `MCP Framework` • `Scikit-Learn` • `OpenCV` • `Pandas`
+* **Data & Web:** `FastAPI` • `Streamlit` • `Firebase` • `ChromaDB (Vector DB)`
+* **DevOps & Tools:** `Git` • `Docker` • `Linux` • `REST APIs`
 
 ---
 
-### 🎓 Education & Certs
+### 🚀 `// FEATURED_PROJECTS`
 
-* **B.E. in Artificial Intelligence & Data Science** (In Progress)
+#### 🔌 `[0x01]` [MCP-Hub](https://github.com/tejaszzz666/MCP-Hub) | Developer Infrastructure & Routing
+> Developer infrastructure and gateway tools designed for Model Context Protocol (MCP) integrations. Connects LLMs with external tool execution environments safely.
+* **Stack:** `Python` • `MCP` • `TypeScript / Node.js` • `APIs`
+
+#### 🔎 `[0x02]` [Sherlock.ai](https://github.com/tejaszzz666/Sherlock.ai) | AI Agent Research Assistant
+> Agentic workflow assistant built for automated investigation, context gathering, and rapid structured data extraction.
+* **Stack:** `Python` • `LLM APIs` • `Streamlit` • `Web UI`
+
+#### 🔍 `[0x03]` [RAG Question Answering System](https://github.com/tejaszzz666/RAG-Based-Question-Answering-System)
+> Retrieval-Augmented Generation pipeline engineered for accurate semantic Q&A over unstructured PDF documents. Focused on chunking strategies and fast vector indexing.
+* **Stack:** `Python` • `LangChain` • `ChromaDB` • `Streamlit`
+
+#### 👁️ `[0x04]` [Human Behaviour & Anomaly Detection](https://github.com/tejaszzz666/Human-Behaviour-And-Anamoly-Detection-Final-Year-Project)
+> Real-time computer vision system built to process multi-stream video feeds, tracking objects and flagging anomalous behaviors with minimal frame delay.
+* **Stack:** `Python` • `OpenCV` • `PyTorch` • `Flask`
+
+#### 🛡️ `[0x05]` [Malware Detector](https://github.com/tejaszzz666/Malware_Detector)
+> Static analysis malware classification engine that inspects Windows PE headers to detect security threats using trained ensemble models.
+* **Stack:** `Python` • `Scikit-Learn` • `Pandas`
+
+#### 💡 `[0x06]` [AI Expense Tracker](https://github.com/tejaszzz666/AiFI-TF-AI-Expense-Tracker-beta)
+> Financial tracker that uses LLM prompting to extract, parse, and categorize raw transaction notes into a live Firebase visual dashboard.
+* **Stack:** `Python` • `Streamlit` • `Firebase` • `LLM APIs`
+
+---
+
+### 📦 `// OTHER_REPOS`
+
+* 🗺️ [`roadmap_generator`](https://github.com/tejaszzz666/roadmap_generator) — CLI/Web tool generating structured tech learning paths.
+* 🌐 [`Car_Dealership_website`](https://github.com/tejaszzz666/Car_Dealership_website) — Modern responsive dealership frontend interface.
+* ⚡ [`CYBERWIFI`](https://github.com/tejaszzz666/CYBERWIFI) — Network security and auditing tools configuration.
+
+---
+
+### 🎓 `// EDUCATION_&_CREDENTIALS`
+
+* **B.E. in Artificial Intelligence & Data Science** *(Pursuing)*
 * **Diploma in Information Technology**
-* 🏅 Google AI Professional Certificate
+* 🏅 **Google AI Professional Certificate**
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejazzz666&show_icons=true&theme=dark&hide_border=true" alt="Tejas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejazzz666&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+
+### 📊 `// METRICS`
+
+<img src="https://github-readme-stats.vercel.app/api?username=tejaszzz666&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaszzz666&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
